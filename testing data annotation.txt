@@ -1,0 +1,180 @@
+C0015359	Extracorporeal Shockwave Lithotripsy	topp	C0403714	Calyceal renal calculus	dsyn	NEG_TREATS	true
+C0359181	Perfluorochemical	phsu	C0010957	Tissue damage	inpo	TREATS	true
+C0667917	protein kinase C iota	aapp	C0007131	Carcinoma, Non-Small-Cell Lung	neop	ASSOCIATED_WITH	true
+C0020621	Hypokalemia	fndg	C0020503	Hyperparathyroidism, Secondary	dsyn	CAUSES	true
+C0021745	Interferon Type II	aapp	C0019204	Primary carcinoma of the liver cells	neop	PREDISPOSES	true
+C0021745	Interferon Type II	aapp	C0858252	Breast adenocarcinoma	neop	PREDISPOSES	true
+C0021745	Interferon Type II	aapp	C0004565	Melanoma, B16	neop	PREDISPOSES	true
+C0087111	Therapeutic procedure	topp	C0403716	Calculus in renal pelvis	dsyn	TREATS	true
+C0015359	Extracorporeal Shockwave Lithotripsy	topp	C0403716	Calculus in renal pelvis	dsyn	TREATS	true
+C0029463	osteosarcoma	neop	C0599779	Animal Model	anim	PROCESS_OF	true
+C0025202	melanoma	neop	C0599779	Animal Model	anim	PROCESS_OF	true
+C0678222	Breast Carcinoma	neop	C0599779	Animal Model	anim	PROCESS_OF	true
+C0201773	Immunoblot assay	lbpr	C0010678	Cysticercosis	dsyn	DIAGNOSES	true
+C1413246	CD9 gene	gngm	C0699040	Cell surface	celc	PART_OF	true
+C1541923	Infective endocarditis	dsyn	C0008059	Child	humn	PROCESS_OF	true
+C2199093	sirolimus drug-eluting stent	phsu	C0333186	Restenosis	acab	TREATS	true
+C1425064	TNFRSF13C gene	gngm	C2853919	Lymphoblastic B-cell lymphoma	neop	PART_OF	true
+C1425064	TNFRSF13C gene	gngm	C0861887	B-cell chronic lymphocytic leukemia/prolymphocytic leukemia/small lymphocytic lymphoma	neop	PART_OF	true
+C1425064	TNFRSF13C gene	gngm	C0334634	Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	neop	PART_OF	true
+C1425064	TNFRSF13C gene	gngm	C0024301	Lymphoma, Follicular	neop	PART_OF	true
+C1425064	TNFRSF13C gene	gngm	C0079744	Lymphoma, Large-Cell, Diffuse	neop	PART_OF	true
+C1425064	TNFRSF13C gene	gngm	C1367654	Marginal zone B-cell lymphoma	neop	PART_OF	true
+C1425064	TNFRSF13C gene	gngm	C0024419	Waldenstrom Macroglobulinemia	neop	PART_OF	true
+C1425064	TNFRSF13C gene	gngm	C0026764	Multiple Myeloma	neop	PART_OF	true
+C1425064	TNFRSF13C gene	gngm	C0006413	Burkitt Lymphoma	neop	PART_OF	true
+C1425064	TNFRSF13C gene	gngm	C0019829	Hodgkin Disease	neop	NEG_PART_OF	true
+C0359181	Perfluorochemical	phsu	C0220981	Metabolic acidosis	patf	TREATS	true
+C0051318	alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid	phsu	C0034721	Rattus	mamm	ADMINISTERED_TO	true
+C0909109	2-methyl-6-(phenylethynyl)pyridine	phsu	C0232482	Chalasia	ortf	DISRUPTS	true
+C0400966	Non-alcoholic fatty liver	dsyn	C0030705	Patients	humn	PROCESS_OF	true
+C0007131	Carcinoma, Non-Small-Cell	neop	C0758621	atypical protein kinase C	aapp	PRODUCES	true
+C1701972	sopoongsan	orch	C0011615	Dermatitis, Atopic	dsyn	TREATS	true
+C1417708	NFKB1 gene	gngm	C1155065	T-Cell Activation	celf	AFFECTS	true
+C0376515	BCL2 gene	gngm	C1155065	T-Cell Activation	celf	AFFECTS	true
+C1417708	NFKB1 gene	gngm	C0162638	Apoptosis	celf	AFFECTS	true
+C0301811	Alkaline phosphatase isoenzyme, placental fraction	aapp	C0006826	Malignant Neoplasms	neop	PART_OF	true
+C0069494	oncofetal antigens	aapp	C0008497	Choriocarcinoma	neop	PART_OF	true
+C0069494	oncofetal antigens	aapp	C0036631	Seminoma	neop	PART_OF	true
+C0301811	Alkaline phosphatase isoenzyme, placental fraction	aapp	C0008497	Choriocarcinoma	neop	PART_OF	true
+C0301811	Alkaline phosphatase isoenzyme, placental fraction	aapp	C0036631	Seminoma	neop	PART_OF	true
+C0301811	Alkaline phosphatase isoenzyme, placental fraction	aapp	C0029925	Ovarian Carcinoma	neop	PART_OF	true
+C0304604	Topical form corticosteroids	phsu	C0424839	Iris nodule	fndg	TREATS	true
+C0385936	CtrA protein, bacteria	aapp	C1516334	Cell Cycle Progression	celf	AFFECTS	true
+C0810633	pacemakers	medd	C0037188	Sinoatrial Block	dsyn	TREATS	true
+C0037937	Spinal Injuries	inpo	C0030705	Patients	humn	PROCESS_OF	true
+C0249582	paricalcitol	phsu	C0231178	Chronic failure	patf	TREATS	true
+C0232807	Decreased renal function	fndg	C0003125	Anorexia Nervosa	mobd	COEXISTS_WITH	true
+C1705207	Recombinant Human Endostatin	phsu	C0242363	Islet Cell Tumor	neop	TREATS	true
+C1705207	Recombinant Human Endostatin	phsu	C0007095	Carcinoid Tumor	neop	TREATS	true
+C0079459	Granulocyte Colony-Stimulating Factor	aapp	C0030705	Patients	humn	ADMINISTERED_TO	true
+C0019204	Primary carcinoma of the liver cells	neop	C1278929	Entire liver	bpoc	PART_OF	true
+C0308803	DEXAMETHASONE INJECTION	clnd	C0025281	Meniere's Disease	dsyn	TREATS	true
+C1519252	Sequential Treatment	topp	C0220650	Metastatic malignant neoplasm to brain	neop	TREATS	true
+C1413240	CD81 gene	gngm	C0699040	Cell surface	celc	PART_OF	true
+C0359181	Perfluorochemical	phsu	C0036982	Shock, Hemorrhagic	patf	TREATS	true
+C0667917	protein kinase C iota	aapp	C0007131	Carcinoma, Non-Small-Cell Lung	neop	PART_OF	true
+C0534628	Endostatins	aapp	C0206754	Neuroendocrine Tumors	neop	TREATS	true
+C0023692	Ligature	medd	C0324306	Beagle	mamm	TREATS	true
+C0006864	Cannabinoids	orch	C0011304	Demyelination	dsyn	TREATS	true
+C1519252	Sequential Treatment	topp	C0149925	Small cell carcinoma of lung	neop	TREATS	true
+C0007131	Carcinoma, Non-Small-Cell Lung	neop	C0086418	Homo sapiens	humn	PROCESS_OF	true
+C0031676	Phospholipids	bacs	C0007009	Carbon	elii	INTERACTS_WITH	true
+C0013421	Dystonia	sosy	C0030567	Parkinson Disease	dsyn	COEXISTS_WITH	true
+C0069494	oncofetal antigens	aapp	C0029925	Ovarian Carcinoma	neop	PART_OF	true
+C0009429	Combined Modality Therapy	topp	C0153349	Malignant neoplasm of tongue	neop	TREATS	true
+C0051318	alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid	phsu	C0175677	Injury	inpo	CAUSES	true
+C1135809	Caloric Restriction	topp	C0036572	Seizures	sosy	TREATS	true
+C0051696	Amlodipine	phsu	C0004153	Atherosclerosis	dsyn	PREVENTS	true
+C0006521	Butyrates	lipd	C0009324	Ulcerative Colitis	dsyn	TREATS	true
+C0185317	Arthroplasty, Replacement	topp	C0019557	Hip Fractures	inpo	TREATS	true
+C1257987	Thiazolidinediones	phsu	C0400966	Non-alcoholic fatty liver	dsyn	TREATS	true
+C0524865	Reconstructive Surgical Procedures	topp	C0242387	Mandibulofacial Dysostosis	cgab	TREATS	true
+C0004361	Autogenic Training	topp	C0018681	Headache	sosy	TREATS	true
+C0022650	Kidney Calculi	patf	C0028754	Obesity	dsyn	COEXISTS_WITH	true
+C0007634	Cells	cell	C0072453	Proto-Oncogene Protein c-met	aapp	PRODUCES	true
+C0009429	Combined Modality Therapy	topp	C0854135	Pseudomonas aeruginosa infection NOS	dsyn	TREATS	true
+C0304604	Topical form corticosteroids	phsu	C0021368	Inflammation	patf	TREATS	true
+C0543467	Operative Surgical Procedures	topp	C0340489	Lone atrial fibrillation	dsyn	TREATS	true
+C0021102	Implants	medd	C0019557	Hip Fractures	inpo	TREATS	true
+C0677850	adjuvant therapy	topp	C0678222	Breast Carcinoma	neop	TREATS	true
+C0014441	Enzyme-Linked Immunosorbent Assay	lbpr	C0010678	Cysticercosis	dsyn	DIAGNOSES	true
+C0220650	Metastatic malignant neoplasm to brain	neop	C0149925	Small cell carcinoma of lung	neop	COEXISTS_WITH	true
+C0728940	Excision	topp	C0010606	Adenoid Cystic Carcinoma	neop	TREATS	true
+C0206425	Encephalomyelitis Virus, Murine, Theiler	patf	C0011304	Demyelination	dsyn	CAUSES	true
+C0249582	paricalcitol	phsu	C0020503	Hyperparathyroidism, Secondary	dsyn	TREATS	true
+C0376515	BCL2 gene	gngm	C0162638	Apoptosis	celf	AFFECTS	true
+C0039286	Tamoxifen	phsu	C0678222	Breast Carcinoma	neop	TREATS	true
+C0042465	Venereal Tumors, Veterinary	neop	C0012984	Canis familiaris	mamm	PROCESS_OF	true
+C0039286	Tamoxifen	phsu	C0043210	Woman	humn	TREATS	true
+C0728940	Excision	topp	C0019204	Primary carcinoma of the liver cells	neop	TREATS	true
+C0010273	Apert-Crouzon syndrome	cgab	C0013393	Dysostoses	dsyn	LOCATION_OF	false
+C0019682	HIV	virs	C0019693	HIV Infections	dsyn	INTERACTS_WITH	false
+C0024164	Lutembacher\'s Syndrome	cgab	C0018817	Heart Septal Defects, Atrial	cgab	LOCATION_OF	false
+C0206596	Orthoreoviruses	virs	C0035112	Reoviridae Infections	dsyn	INTERACTS_WITH	false
+C0220847	Hepatitis C virus	virs	C0400914	Acute hepatitis C	dsyn	INTERACTS_WITH	false
+C0036444	Scopolamine Hydrobromide	orch	C0036442	Scopolamine	orch	ISA	false
+C0428791	Aortic valve calcification	acab	C0003507	Aortic Valve Stenosis	dsyn	LOCATION_OF	false
+C0021344	Human Papillomavirus	virs	C0014522	Epidermodysplasia Verruciformis	dsyn	INTERACTS_WITH	false
+C0021344	Human Papillomavirus	virs	C0343641	Human papilloma virus infection	dsyn	INTERACTS_WITH	false
+C0021344	Human Papillomavirus	virs	C0343730	Perianal warts	dsyn	INTERACTS_WITH	false
+C0021344	Human Papillomavirus	virs	C0343731	Penile warts	dsyn	INTERACTS_WITH	false
+C0042338	Human herpesvirus 3	virs	C0017409	Herpes Zoster Oticus	dsyn	INTERACTS_WITH	false
+C0042338	Human herpesvirus 3	virs	C0008049	Chickenpox	dsyn	INTERACTS_WITH	false
+C0021338	Infectious bursal disease virus	virs	C0276483	Infectious bursal disease	dsyn	INTERACTS_WITH	false
+C0017161	Transmissible gastroenteritis virus	virs	C0017162	Gastroenteritis, Transmissible, of Swine	dsyn	INTERACTS_WITH	false
+C0000768	Congenital Abnormality	cgab	C0004903	Beckwith-Wiedemann Syndrome	cgab	LOCATION_OF	false
+C0000768	Congenital Abnormality	cgab	C0011436	Dentinogenesis Imperfecta	dsyn	LOCATION_OF	false
+C0000768	Congenital Abnormality	cgab	C0013264	Muscular Dystrophy, Duchenne	dsyn	LOCATION_OF	false
+C0000768	Congenital Abnormality	cgab	C0265221	Walker-Warburg congenital muscular dystrophy	cgab	LOCATION_OF	false
+C0000768	Congenital Abnormality	cgab	C0018817	Heart Septal Defects, Atrial	dsyn	LOCATION_OF	false
+C0000768	Congenital Abnormality	cgab	C0266463	Lissencephaly	dsyn	LOCATION_OF	false
+C0000768	Congenital Abnormality	cgab	C0024221	Lymphangioma	neop	LOCATION_OF	false
+C0019080	Hemorrhage	fndg	C0000832	Abruptio Placentae	dsyn	ISA	false
+C0230028	Oral region	blor	C0015450	Face	blor	LOCATION_OF	false
+C0013080	Down Syndrome	cgab	C0041107	Trisomy	dsyn	LOCATION_OF	false
+C0020699	Hysterectomy	topp	C0271614	Residual ovary syndrome	dsyn	TREATS	false
+C0010825	Cytomegalovirus	virs	C0341335	Cytomegaloviral colitis	dsyn	INTERACTS_WITH	false
+C0010825	Cytomegalovirus	virs	C0010823	Cytomegalovirus Infections	dsyn	INTERACTS_WITH	false
+C0230373	Palmar surface	blor	C0005898	Body Regions	blor	LOCATION_OF	false
+C0035414	Rhabdoviridae	virs	C0034494	Rabies	dsyn	INTERACTS_WITH	false
+C0242427	Pericardiotomy	topp	C0032805	Postpericardiotomy Syndrome	dsyn	PREVENTS	false
+C0543467	Operative Surgical Procedures	topp	C0520905	Vomiting, Postoperative	sosy	PREVENTS	false
+C0543467	Operative Surgical Procedures	topp	C0520905	Vomiting, Postoperative	sosy	TREATS	false
+C0543467	Operative Surgical Procedures	topp	C1282228	Acute postoperative endophthalmitis	dsyn	TREATS	false
+C0543467	Operative Surgical Procedures	topp	C0038941	Surgical Wound Infection	patf	PREVENTS	false
+C0543467	Operative Surgical Procedures	topp	C0038941	Surgical Wound Infection	patf	TREATS	false
+C0543467	Operative Surgical Procedures	topp	C0038940	Surgical Wound Dehiscence	patf	TREATS	false
+C0543467	Operative Surgical Procedures	topp	C0032788	Postoperative Hemorrhage	patf	PREVENTS	false
+C0543467	Operative Surgical Procedures	topp	C0589368	Postoperative myocardial infarction, unspecified	dsyn	PREVENTS	false
+C0543467	Operative Surgical Procedures	topp	C0392618	Postoperative infection NOS	patf	PREVENTS	false
+C0543467	Operative Surgical Procedures	topp	C0362037	Postoperative depression	mobd	PREVENTS	false
+C0543467	Operative Surgical Procedures	topp	C0362037	Postoperative depression	mobd	TREATS	false
+C0543467	Operative Surgical Procedures	topp	C0589110	Postoperative deep vein thrombosis	dsyn	PREVENTS	false
+C0543467	Operative Surgical Procedures	topp	C0558429	Postoperative fistula	patf	PREVENTS	false
+C0543467	Operative Surgical Procedures	topp	C0558429	Postoperative fistula	patf	TREATS	false
+C0543467	Operative Surgical Procedures	topp	C0558429	Postoperative fistula	dsyn	TREATS	false
+C0543467	Operative Surgical Procedures	topp	C1282227	Postoperative endophthalmitis	dsyn	PREVENTS	false
+C0543467	Operative Surgical Procedures	topp	C1282227	Postoperative endophthalmitis	dsyn	TREATS	false
+C0543467	Operative Surgical Procedures	hlca	C0400877	Postoperative ileus	dsyn	PREVENTS	false
+C0543467	Operative Surgical Procedures	topp	C0400877	Postoperative ileus	dsyn	TREATS	false
+C0543467	Operative Surgical Procedures	topp	C0267926	Postoperative biliary stricture	dsyn	TREATS	false
+C0543467	Operative Surgical Procedures	hlca	C0030201	Pain, Postoperative	sosy	PREVENTS	false
+C0543467	Operative Surgical Procedures	topp	C0036992	Short Bowel Syndrome	dsyn	PREVENTS	false
+C0023093	Lassa virus	virs	C1617072	Lassa virus infection	dsyn	INTERACTS_WITH	false
+C0014047	Japanese encephalitis virus	virs	C0014057	Japanese Encephalitis	dsyn	INTERACTS_WITH	false
+C0036646	Unspecified senile cataract	acab	C0086543	Cataract	dsyn	LOCATION_OF	false
+C0019092	Hantavirus	virs	C0242994	Hantavirus Infections	dsyn	INTERACTS_WITH	false
+C0019092	Hantavirus	virs	C0019101	Hemorrhagic Fever with Renal Syndrome	dsyn	INTERACTS_WITH	false
+C0024267	Lymphocytic choriomeningitis virus	virs	C0024266	Lymphocytic Choriomeningitis	dsyn	INTERACTS_WITH	false
+C0035638	Rinderpest virus	virs	C0035637	Rinderpest	dsyn	INTERACTS_WITH	false
+C0034497	Rabies virus	virs	C1321098	Human rabies	dsyn	INTERACTS_WITH	false
+C0034497	Rabies virus	virs	C0034494	Rabies	dsyn	INTERACTS_WITH	false
+C0085305	Feline infectious peritonitis virus	virs	C0085306	Feline infectious peritonitis	dsyn	INTERACTS_WITH	false
+C0376325	Hepatitis A Virus	virs	C0019159	Hepatitis A	dsyn	INTERACTS_WITH	false
+C0019369	Herpesviridae	virs	C0035319	Retinal Necrosis Syndrome, Acute	dsyn	INTERACTS_WITH	false
+C0206679	Herpesvirus 1, Human	virs	C1318711	Herpes simplex type 1 infection	dsyn	INTERACTS_WITH	false
+C0019351	Herpesvirus 2, Human	virs	C1318710	Herpes simplex type 2 infection	dsyn	INTERACTS_WITH	false
+C0014644	Herpesvirus 4, Human	virs	C0021345	Infectious Mononucleosis	dsyn	INTERACTS_WITH	false
+C0079506	Herpesvirus 7, Human	virs	C1504514	Human herpesvirus 7 infection	dsyn	INTERACTS_WITH	false
+C0011315	Dengue Virus	virs	C0376300	Dengue Shock Syndrome	dsyn	INTERACTS_WITH	false
+C0011315	Dengue Virus	virs	C0019100	Dengue Hemorrhagic Fever	dsyn	INTERACTS_WITH	false
+C0007389	Cataract Extraction	topp	C1444680	Posterior capsule opacification	dsyn	PREVENTS	false
+C0086776	Parvovirus	virs	C0205882	Infections, Parvovirus	dsyn	INTERACTS_WITH	false
+C0014383	Enterovirus	virs	C0276430	Enterovirus meningitis	dsyn	INTERACTS_WITH	false
+C0014383	Enterovirus	virs	C0014378	Enterovirus Infections	dsyn	INTERACTS_WITH	false
+C0027651	Neoplasm	neop	C0027766	Nervous System Neoplasms	neop	ISA	false
+C0027651	Neoplasm	neop	C0017185	Gastrointestinal Neoplasms	neop	ISA	false
+C0037995	Splenectomy	topp	C0398663	Post-splenectomy thrombocytosis	dsyn	TREATS	false
+C0026783	Mumps virus	virs	C0026780	Mumps	dsyn	INTERACTS_WITH	false
+C0001443	Adenosine	bacs	C0001480	Adenosine Triphosphate	bacs	ISA	false
+C0001443	Adenosine	bacs	C0001465	Adenosine Monophosphate	nnon	ISA	false
+C0040408	Tongue	bpoc	C1267213	Upper aerodigestive tract	blor	LOCATION_OF	false
+C0014050	Encephalitis Virus, Western Equine	virs	C0153064	Encephalomyelitis, Western Equine	dsyn	INTERACTS_WITH	false
+C0001753	African Swine Fever Virus	virs	C0001752	African swine fever	dsyn	INTERACTS_WITH	false
+C0079154	Nonbullous congenital ichthyosiform erythroderma	cgab	C0020757	Ichthyoses	dsyn	LOCATION_OF	false
+C0035924	Rubella virus	virs	C0035920	Rubella	dsyn	INTERACTS_WITH	false
+C0021333	Equine arteritis virus	virs	C0276313	Equine viral arteritis	dsyn	INTERACTS_WITH	false
+C0025011	Measles virus	virs	C0153049	GIP - Giant cell interstitial pneumonitis	dsyn	INTERACTS_WITH	false
+C0025011	Measles virus	virs	C0038522	Subacute Sclerosing Panencephalitis	dsyn	INTERACTS_WITH	false
+C0025011	Measles virus	virs	C0025007	Measles	dsyn	INTERACTS_WITH	false

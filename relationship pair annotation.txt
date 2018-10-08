@@ -1,0 +1,393 @@
+UMLS_rel	semmeddb_rel	Annotator 1	Annotator 2
+active_ingredient_of	compared_with	not sure	not sure
+active_ingredient_of	COEXISTS_WITH	not sure	not sure
+active_ingredient_of	INTERACTS_WITH	wrong	wrong
+active_ingredient_of	higher_than	not sure	not sure
+active_ingredient_of	ISA	not sure	not sure
+anatomic_structure_has_location	PART_OF	not sure	not sure
+anatomic_structure_has_location	LOCATION_OF	wrong	wrong
+anatomic_structure_is_physical_part_of	PART_OF	correct	correct
+anatomic_structure_is_physical_part_of	LOCATION_OF	wrong	wrong
+anatomic_structure_is_physical_part_of	NEG_PART_OF	wrong	wrong
+anatomic_structure_is_physical_part_of	AFFECTS	not sure	not sure
+anatomic_structure_is_physical_part_of	AUGMENTS	not sure	wrong
+associated_morphology_of	COEXISTS_WITH	not sure	not sure
+associated_morphology_of	CAUSES	not sure	correct
+associated_morphology_of	AFFECTS	not sure	not sure
+associated_morphology_of	ISA	wrong	not sure
+associated_morphology_of	LOCATION_OF	wrong	not sure
+associated_morphology_of	MANIFESTATION_OF	wrong	wrong
+associated_morphology_of	PREDISPOSES	not sure	not sure
+associated_morphology_of	OCCURS_IN	wrong	wrong
+associated_morphology_of	PRECEDES	not sure	not sure
+associated_morphology_of	NEG_COEXISTS_WITH	not sure	not sure
+associated_morphology_of	COMPLICATES	not sure	not sure
+associated_morphology_of	PART_OF	wrong	wrong
+associated_with	COEXISTS_WITH	correct	correct
+associated_with	ISA	not sure	not sure
+associated_with	CAUSES	not sure	correct
+biological_process_has_associated_location	AFFECTS	not sure	not sure
+biological_process_has_associated_location	NEG_AFFECTS	not sure	not sure
+biological_process_is_part_of_process	AFFECTS	not sure	not sure
+biological_process_is_part_of_process	COEXISTS_WITH	correct	not sure
+biological_process_is_part_of_process	ISA	not sure	not sure
+causative_agent_of	CAUSES	correct	correct
+causative_agent_of	TREATS	wrong	wrong
+causative_agent_of	ASSOCIATED_WITH	correct	wrong
+causative_agent_of	COEXISTS_WITH	not sure	correct
+causative_agent_of	INTERACTS_WITH	not sure	wrong
+causative_agent_of	PREDISPOSES	correct	correct
+causative_agent_of	AFFECTS	correct	correct
+causative_agent_of	AUGMENTS	not sure	correct
+causative_agent_of	PREVENTS	wrong	wrong
+cause_of	CAUSES	correct	correct
+cause_of	COEXISTS_WITH	not sure	not sure
+chemical_or_drug_affects_gene_product	INHIBITS	not sure	correct
+chemical_or_drug_affects_gene_product	INTERACTS_WITH	correct	correct
+chemical_or_drug_is_metabolized_by_enzyme	INTERACTS_WITH	correct	correct
+chemical_or_drug_is_metabolized_by_enzyme	INHIBITS	not sure	not sure
+chemical_structure_of	INTERACTS_WITH	wrong	wrong
+chemical_structure_of	COEXISTS_WITH	wrong	not sure
+chemical_structure_of	ISA	wrong	wrong
+chemical_structure_of	compared_with	wrong	wrong
+chemical_structure_of	STIMULATES	wrong	wrong
+chemical_structure_of	higher_than	wrong	wrong
+chemical_structure_of	INHIBITS	wrong	wrong
+chemotherapy_regimen_has_component	ISA	wrong	wrong
+chemotherapy_regimen_has_component	USES	correct	correct
+conceptual_part_of	ISA	wrong	correct
+constitutional_part_of	PART_OF	correct	correct
+constitutional_part_of	LOCATION_OF	wrong	wrong
+continuous_with	PART_OF	wrong	wrong
+contraindicated_with_disease	TREATS	wrong	wrong
+contraindicated_with_disease	CAUSES	not sure	not sure
+contraindicated_with_disease	AFFECTS	correct	correct
+contraindicated_with_disease	ASSOCIATED_WITH	wrong	wrong
+contraindicated_with_disease	PREVENTS	wrong	wrong
+contraindicated_with_disease	AUGMENTS	not sure	not sure
+contraindicated_with_disease	PREDISPOSES	not sure	not sure
+contraindicated_with_disease	DISRUPTS	correct	correct
+contraindicated_with_disease	NEG_AFFECTS	wrong	wrong
+contraindicated_with_disease	NEG_CAUSES	not sure	not sure
+definitional_manifestation_of	COEXISTS_WITH	correct	correct
+definitional_manifestation_of	ASSOCIATED_WITH	wrong	wrong
+definitional_manifestation_of	CAUSES	not sure	not sure
+definitional_manifestation_of	ISA	not sure	not sure
+definitional_manifestation_of	PREDISPOSES	not sure	wrong
+direct_procedure_site_of	LOCATION_OF	correct	correct
+disease_excludes_normal_tissue_origin	PART_OF	wrong	wrong
+disease_excludes_primary_anatomic_site	PART_OF	wrong	wrong
+disease_has_associated_anatomic_site	PART_OF	wrong	wrong
+disease_has_associated_anatomic_site	AFFECTS	not sure	correct
+disease_has_associated_disease	COEXISTS_WITH	correct	correct
+disease_has_finding	COEXISTS_WITH	correct	correct
+disease_has_finding	ISA	wrong	wrong
+disease_has_normal_tissue_origin	PART_OF	wrong	wrong
+disease_has_normal_tissue_origin	PRODUCES	wrong	wrong
+disease_has_primary_anatomic_site	PART_OF	wrong	wrong
+disease_has_primary_anatomic_site	AFFECTS	not sure	correct
+disease_may_have_associated_disease	COEXISTS_WITH	not sure	not sure
+disease_may_have_associated_disease	CAUSES	not sure	wrong
+disease_may_have_finding	COEXISTS_WITH	not sure	not sure
+due_to	ISA	wrong	wrong
+due_to	COEXISTS_WITH	not sure	not sure
+finding_method_of	DIAGNOSES	not sure	correct
+finding_site_of	LOCATION_OF	correct	correct
+finding_site_of	NEG_LOCATION_OF	wrong	wrong
+finding_site_of	PART_OF	wrong	wrong
+form_of	ISA	correct	correct
+form_of	INTERACTS_WITH	wrong	wrong
+form_of	compared_with	not sure	correct
+form_of	COEXISTS_WITH	not sure	not sure
+form_of	STIMULATES	wrong	not sure
+form_of	INHIBITS	wrong	wrong
+form_of	higher_than	not sure	not sure
+gene_plays_role_in_process	AFFECTS	correct	correct
+gene_product_encoded_by_gene	INTERACTS_WITH	wrong	wrong
+gene_product_encoded_by_gene	COEXISTS_WITH	not sure	correct
+gene_product_encoded_by_gene	STIMULATES	not sure	correct
+gene_product_expressed_in_tissue	PART_OF	wrong	not sure
+gene_product_expressed_in_tissue	AFFECTS	not sure	not sure
+gene_product_expressed_in_tissue	AUGMENTS	not sure	not sure
+gene_product_expressed_in_tissue	DISRUPTS	not sure	not sure
+gene_product_has_associated_anatomy	PART_OF	wrong	wrong
+gene_product_has_associated_anatomy	AFFECTS	wrong	not sure
+gene_product_has_associated_anatomy	AUGMENTS	wrong	wrong
+gene_product_has_associated_anatomy	DISRUPTS	wrong	wrong
+gene_product_has_biochemical_function	ISA	wrong	wrong
+gene_product_has_biochemical_function	INTERACTS_WITH	wrong	wrong
+gene_product_has_biochemical_function	STIMULATES	not sure	wrong
+gene_product_has_biochemical_function	COEXISTS_WITH	not sure	not sure
+gene_product_has_biochemical_function	INHIBITS	not sure	wrong
+gene_product_has_biochemical_function	PART_OF	not sure	wrong
+gene_product_has_biochemical_function	compared_with	wrong	wrong
+gene_product_has_biochemical_function	PRODUCES	correct	correct
+gene_product_has_chemical_classification	ISA	correct	correct
+gene_product_is_element_in_pathway	AFFECTS	correct	correct
+gene_product_malfunction_associated_with_disease	ASSOCIATED_WITH	correct	correct
+gene_product_malfunction_associated_with_disease	TREATS	not sure	wrong
+gene_product_malfunction_associated_with_disease	CAUSES	not sure	not sure
+gene_product_plays_role_in_biological_process	AFFECTS	correct	correct
+gene_product_plays_role_in_biological_process	AUGMENTS	not sure	not sure
+gene_product_plays_role_in_biological_process	DISRUPTS	not sure	not sure
+gene_product_plays_role_in_biological_process	CAUSES	not sure	not sure
+gene_product_plays_role_in_biological_process	NEG_AFFECTS	wrong	wrong
+gene_product_plays_role_in_biological_process	NEG_AUGMENTS	not sure	not sure
+gene_product_plays_role_in_biological_process	NEG_DISRUPTS	not sure	not sure
+has_active_ingredient	ISA	not sure	not sure
+has_active_ingredient	compared_with	not sure	not sure
+has_active_ingredient	COEXISTS_WITH	wrong	not sure
+has_active_ingredient	INTERACTS_WITH	wrong	wrong
+has_active_ingredient	higher_than	not sure	not sure
+has_active_ingredient	INHIBITS	wrong	wrong
+has_active_ingredient	STIMULATES	wrong	not sure
+has_associated_morphology	ISA	correct	correct
+has_associated_morphology	COEXISTS_WITH	not sure	not sure
+has_associated_morphology	CAUSES	not sure	not sure
+has_associated_morphology	AFFECTS	not sure	correct
+has_associated_morphology	MANIFESTATION_OF	correct	correct
+has_associated_morphology	LOCATION_OF	wrong	correct
+has_associated_morphology	NEG_COEXISTS_WITH	wrong	not sure
+has_associated_morphology	PRECEDES	wrong	not sure
+has_associated_morphology	PREDISPOSES	not sure	not sure
+has_associated_morphology	OCCURS_IN	wrong	wrong
+has_associated_morphology	COMPLICATES	wrong	wrong
+has_causative_agent	PROCESS_OF	wrong	not sure
+has_causative_agent	AFFECTS	wrong	wrong
+has_causative_agent	INTERACTS_WITH	correct	correct
+has_causative_agent	COEXISTS_WITH	wrong	not sure
+has_cdrh_parent	ISA	correct	correct
+has_cdrh_parent	COEXISTS_WITH	wrong	not sure
+has_cdrh_parent	CAUSES	not sure	wrong
+has_chemical_structure	ISA	correct	correct
+has_chemical_structure	INTERACTS_WITH	wrong	wrong
+has_chemical_structure	compared_with	wrong	not sure
+has_chemical_structure	COEXISTS_WITH	wrong	not sure
+has_chemical_structure	STIMULATES	wrong	not sure
+has_chemical_structure	INHIBITS	wrong	wrong
+has_chemical_structure	higher_than	wrong	not sure
+has_chemical_structure	NEG_INTERACTS_WITH	wrong	correct
+has_chemical_structure	USES	wrong	wrong
+has_component	USES	correct	not sure
+has_component	ISA	wrong	wrong
+has_component	compared_with	not sure	not sure
+has_constitutional_part	PART_OF	wrong	wrong
+has_constitutional_part	LOCATION_OF	not sure	wrong
+has_definitional_manifestation	ISA	not sure	wrong
+has_definitional_manifestation	COEXISTS_WITH	correct	not sure
+has_definitional_manifestation	CAUSES	not sure	not sure
+has_direct_substance	USES	correct	correct
+has_direct_substance	compared_with	wrong	not sure
+has_finding_site	PART_OF	wrong	wrong
+has_finding_site	AFFECTS	not sure	correct
+has_focus	TREATS	not sure	wrong
+has_form	compared_with	not sure	not sure
+has_form	COEXISTS_WITH	wrong	not sure
+has_form	INTERACTS_WITH	wrong	wrong
+has_form	ISA	not sure	wrong
+has_form	STIMULATES	wrong	not sure
+has_form	higher_than	not sure	not sure
+has_form	INHIBITS	wrong	wrong
+has_free_acid_or_base_form	ISA	not sure	wrong
+has_free_acid_or_base_form	INTERACTS_WITH	wrong	wrong
+has_free_acid_or_base_form	compared_with	not sure	not sure
+has_free_acid_or_base_form	COEXISTS_WITH	not sure	not sure
+has_ingredient	ISA	not sure	not sure
+has_ingredient	compared_with	not sure	not sure
+has_ingredient	INTERACTS_WITH	wrong	wrong
+has_ingredient	COEXISTS_WITH	wrong	not sure
+has_ingredient	higher_than	not sure	not sure
+has_ingredient	STIMULATES	wrong	not sure
+has_ingredient	INHIBITS	wrong	wrong
+has_method	ISA	not sure	not sure
+has_method	METHOD_OF	wrong	wrong
+has_method	PRECEDES	wrong	not sure
+has_method	compared_with	wrong	not sure
+has_method	higher_than	wrong	not sure
+has_method	COEXISTS_WITH	wrong	not sure
+has_method	AFFECTS	wrong	not sure
+has_nichd_parent	ISA	correct	correct
+has_nichd_parent	COEXISTS_WITH	wrong	not sure
+has_nichd_parent	CAUSES	not sure	not sure
+has_nichd_parent	AFFECTS	not sure	not sure
+has_nichd_parent	PREDISPOSES	not sure	not sure
+has_nichd_parent	MANIFESTATION_OF	not sure	wrong
+has_nichd_parent	PRECEDES	wrong	wrong
+has_nichd_parent	OCCURS_IN	correct	wrong
+has_nichd_parent	COMPLICATES	not sure	wrong
+has_nichd_parent	NEG_COEXISTS_WITH	wrong	not sure
+has_nichd_parent	AUGMENTS	not sure	not sure
+has_nichd_parent	LOCATION_OF	wrong	wrong
+has_part	PART_OF	wrong	wrong
+has_part	LOCATION_OF	wrong	wrong
+has_part	compared_with	not sure	not sure
+has_part	ISA	wrong	wrong
+has_part	COEXISTS_WITH	not sure	not sure
+has_part	higher_than	not sure	not sure
+has_part	AFFECTS	wrong	not sure
+has_part	INTERACTS_WITH	wrong	wrong
+has_pathological_process	COEXISTS_WITH	not sure	correct
+has_pathological_process	CAUSES	not sure	not sure
+has_physiologic_effect	AFFECTS	correct	correct
+has_physiologic_effect	AUGMENTS	not sure	not sure
+has_precise_ingredient	ISA	correct	wrong
+has_regional_part	PART_OF	wrong	wrong
+has_regional_part	LOCATION_OF	not sure	wrong
+has_salt_form	compared_with	not sure	not sure
+has_salt_form	COEXISTS_WITH	not sure	not sure
+has_salt_form	INTERACTS_WITH	wrong	wrong
+has_therapeutic_class	ISA	correct	correct
+has_therapeutic_class	INTERACTS_WITH	wrong	wrong
+has_therapeutic_class	COEXISTS_WITH	wrong	not sure
+has_therapeutic_class	compared_with	wrong	not sure
+has_therapeutic_class	STIMULATES	wrong	not sure
+has_therapeutic_class	INHIBITS	wrong	wrong
+has_therapeutic_class	higher_than	wrong	not sure
+has_tradename	compared_with	wrong	not sure
+has_tradename	COEXISTS_WITH	wrong	not sure
+has_tradename	INTERACTS_WITH	wrong	wrong
+has_tradename	higher_than	wrong	not sure
+induces	CAUSES	correct	correct
+induces	TREATS	not sure	not sure
+ingredient_of	compared_with	not sure	not sure
+ingredient_of	COEXISTS_WITH	wrong	not sure
+ingredient_of	INTERACTS_WITH	wrong	wrong
+ingredient_of	higher_than	not sure	not sure
+ingredient_of	STIMULATES	wrong	not sure
+ingredient_of	USES	wrong	wrong
+ingredient_of	ISA	not sure	wrong
+ingredient_of	INHIBITS	wrong	wrong
+interprets	ISA	correct	not sure
+inverse_isa	COEXISTS_WITH	wrong	not sure
+inverse_isa	INTERACTS_WITH	wrong	wrong
+inverse_isa	ISA	wrong	wrong
+inverse_isa	compared_with	not sure	not sure
+inverse_isa	STIMULATES	not sure	not sure
+inverse_isa	CAUSES	wrong	wrong
+inverse_isa	INHIBITS	wrong	wrong
+inverse_isa	PART_OF	wrong	wrong
+inverse_isa	higher_than	not sure	not sure
+inverse_isa	AFFECTS	wrong	not sure
+inverse_isa	METHOD_OF	not sure	not sure
+inverse_isa	USES	wrong	not sure
+inverse_isa	PRECEDES	not sure	wrong
+inverse_isa	PREDISPOSES	wrong	wrong
+inverse_isa	NEG_INTERACTS_WITH	not sure	not sure
+inverse_isa	LOCATION_OF	wrong	wrong
+inverse_isa	NEG_COEXISTS_WITH	correct	not sure
+inverse_isa	CONVERTS_TO	wrong	not sure
+inverse_isa	PRODUCES	wrong	wrong
+inverse_isa	same_as	not sure	not sure
+inverse_isa	MANIFESTATION_OF	wrong	wrong
+inverse_isa	lower_than	not sure	not sure
+inverse_isa	OCCURS_IN	wrong	not sure
+inverse_isa	AUGMENTS	wrong	wrong
+inverse_isa	PROCESS_OF	wrong	not sure
+inverse_isa	ASSOCIATED_WITH	wrong	wrong
+inverse_isa	COMPLICATES	wrong	wrong
+inverse_isa	different_from	not sure	not sure
+inverse_isa	NEG_STIMULATES	wrong	not sure
+inverse_isa	NEG_PART_OF	correct	correct
+inverse_isa	NEG_AFFECTS	correct	not sure
+inverse_isa	NEG_METHOD_OF	correct	not sure
+inverse_isa	NEG_CAUSES	correct	correct
+inverse_isa	NEG_INHIBITS	correct	correct
+inverse_isa	NEG_higher_than	not sure	not sure
+inverse_isa	NEG_PREDISPOSES	correct	wrong
+is_interpreted_by	DIAGNOSES	wrong	not sure
+isa	ISA	correct	correct
+isa	COEXISTS_WITH	wrong	not sure
+isa	INTERACTS_WITH	wrong	wrong
+isa	compared_with	not sure	not sure
+isa	STIMULATES	wrong	not sure
+isa	CAUSES	wrong	wrong
+isa	INHIBITS	wrong	wrong
+isa	PART_OF	not sure	correct
+isa	AFFECTS	wrong	not sure
+isa	higher_than	not sure	not sure
+isa	METHOD_OF	wrong	not sure
+isa	USES	wrong	not sure
+isa	PRECEDES	not sure	wrong
+isa	NEG_INTERACTS_WITH	wrong	correct
+isa	CONVERTS_TO	wrong	not sure
+isa	NEG_COEXISTS_WITH	wrong	not sure
+isa	PREDISPOSES	wrong	wrong
+isa	PRODUCES	wrong	wrong
+isa	MANIFESTATION_OF	wrong	not sure
+isa	same_as	wrong	not sure
+isa	LOCATION_OF	wrong	not sure
+isa	lower_than	not sure	not sure
+isa	OCCURS_IN	wrong	wrong
+isa	AUGMENTS	wrong	wrong
+isa	COMPLICATES	wrong	wrong
+isa	NEG_STIMULATES	wrong	not sure
+isa	PROCESS_OF	wrong	not sure
+isa	NEG_AFFECTS	wrong	not sure
+isa	different_from	wrong	not sure
+isa	NEG_CAUSES	wrong	correct
+isa	NEG_INHIBITS	wrong	correct
+isa	ASSOCIATED_WITH	wrong	not sure
+isa	NEG_PART_OF	wrong	wrong
+isa	NEG_higher_than	not sure	not sure
+isa	NEG_METHOD_OF	wrong	not sure
+isa	NEG_PREDISPOSES	wrong	correct
+may_be_treated_by	PRODUCES	wrong	wrong
+may_diagnose	TREATS	wrong	wrong
+may_prevent	TREATS	not sure	not sure
+may_prevent	PREVENTS	correct	correct
+may_prevent	AFFECTS	correct	correct
+may_prevent	CAUSES	wrong	wrong
+may_prevent	ASSOCIATED_WITH	not sure	wrong
+may_prevent	DISRUPTS	correct	correct
+may_prevent	PREDISPOSES	wrong	wrong
+may_prevent	NEG_TREATS	not sure	not sure
+may_prevent	AUGMENTS	not sure	not sure
+may_prevent	NEG_PREVENTS	not sure	wrong
+may_treat	TREATS	correct	correct
+may_treat	AFFECTS	correct	correct
+may_treat	PREVENTS	not sure	not sure
+may_treat	ASSOCIATED_WITH	not sure	wrong
+may_treat	CAUSES	wrong	wrong
+may_treat	DISRUPTS	correct	correct
+may_treat	NEG_TREATS	wrong	wrong
+may_treat	AUGMENTS	wrong	wrong
+may_treat	PREDISPOSES	wrong	wrong
+may_treat	NEG_AFFECTS	wrong	wrong
+may_treat	NEG_PREVENTS	not sure	not sure
+may_treat	INHIBITS	wrong	not sure
+may_treat	PART_OF	wrong	wrong
+may_treat	NEG_ASSOCIATED_WITH	not sure	correct
+may_treat	COMPLICATES	not sure	wrong
+may_treat	NEG_CAUSES	correct	correct
+method_of	METHOD_OF	correct	correct
+method_of	PRECEDES	wrong	not sure
+method_of	compared_with	wrong	not sure
+method_of	USES	wrong	wrong
+method_of	higher_than	wrong	not sure
+method_of	ISA	wrong	not sure
+method_of	NEG_METHOD_OF	wrong	wrong
+occurs_before	TREATS	wrong	not sure
+occurs_before	PREVENTS	wrong	not sure
+occurs_before	CAUSES	not sure	not sure
+part_of	PART_OF	correct	correct
+part_of	LOCATION_OF	wrong	wrong
+part_of	COEXISTS_WITH	wrong	not sure
+part_of	compared_with	wrong	not sure
+part_of	AFFECTS	wrong	not sure
+part_of	NEG_PART_OF	wrong	wrong
+part_of	ISA	correct	not sure
+pathological_process_of	COEXISTS_WITH	not sure	not sure
+regional_part_of	PART_OF	correct	correct
+therapeutic_class_of	INTERACTS_WITH	wrong	wrong
+therapeutic_class_of	COEXISTS_WITH	wrong	not sure
+therapeutic_class_of	compared_with	wrong	not sure
+therapeutic_class_of	ISA	wrong	wrong
+therapeutic_class_of	STIMULATES	wrong	not sure
+therapeutic_class_of	higher_than	wrong	not sure
+tradename_of	ISA	correct	correct
+tradename_of	compared_with	wrong	not sure
+tradename_of	COEXISTS_WITH	wrong	not sure
+tradename_of	INTERACTS_WITH	wrong	wrong
+tradename_of	USES	wrong	wrong
+tradename_of	higher_than	wrong	not sure
+uses_substance	USES	correct	correct
